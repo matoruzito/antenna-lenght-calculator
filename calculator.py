@@ -1,12 +1,12 @@
 # coding=utf-8
 # Calculadora de parámetros de antenas. 
-# Matias Serino Marin Desarrollos 
+# @author Matias Serino Marin
 import math
 salir = False
 
 while(salir != True):
 
-	print("Calculadora de antenas, utilizar con permisos del desarrollador");
+	print("Calculadora de longitud de antenas");
 
 	velOndaVacio =  299792458
 	velOndaAire = 284802835.1
